@@ -1,7 +1,6 @@
 # EmployeesDataset
 EDA of Employees Data and apply Decision Tree and Random Forest to predict the probability and status whether employee will continue with organization.
 
-# EDA-of-IPL-Matches
 ![image.jpg](Images/IPL-Image.jpg)
 
 ## INTRODUCTION
