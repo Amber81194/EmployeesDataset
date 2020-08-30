@@ -1,7 +1,7 @@
 # Employees Dataset
 EDA of Employees Data and apply Decision Tree and Random Forest to predict the probability and status whether employee will continue with organization.
 
-![image.jpg](Images/IPL-Image.jpg)
+![image.jpg](Images/Employee.jpg)
 
 ## INTRODUCTION
 The dataset consist of the information about the employees of 11 departments. Various variables are present in the dataset includes employee Id, department, avg monthly hours, filed_complaint, last_evaluation, salary, recently promoted, satisfaction, status, tenure, n_projects, age, gender, marital status.
