@@ -49,15 +49,15 @@ It comprises of 2,40,000 observation.
 - As the avg_monthly_hrs increase along with no of project, employee tend to leave the company.	
 - Sales,Enginering , Support, IT are top 4 department from where employee left the company.	
 - Overall we can see if the satisfaction score is less than 0.4-0.5 chances of leaving the company is more.	
-- Employees which are less satisfied with their job will leave the company	
-- Employees who have low salary have high chance of leaving the company	
--	Employees in Sales and Engineering have high chance of leaving the company	
--	People who got promoted have high chance to continue with the same company	
-- Employee working in Project 7 have very low chance of staying in the company	
--	Married people have high chance of staying with the company.	
--	Employees are not working in Temp Department after the age of 30	
-- Management is the only department in which more people of high salary as compared to medium salary	
-- Employees of Sales and Engineering Department are more satisfied	
+- Employees which are less satisfied with their job will leave the company.	
+- Employees who have low salary have high chance of leaving the company.
+-	Employees in Sales and Engineering have high chance of leaving the company.	
+-	People who got promoted have high chance to continue with the same company.
+- Employee working in Project 7 have very low chance of staying in the company.
+-	Married people have high chance of staying with the company.
+-	Employees are not working in Temp Department after the age of 30.
+- Management is the only department in which more people of high salary as compared to medium salary.
+- Employees of Sales and Engineering Department are more satisfied.
 -	Married people have high chance of staying with the company.	
 -	Employees are not working in Temp Department after the age of 30.	
 
