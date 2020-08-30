@@ -61,6 +61,6 @@ It comprises of 2,40,000 observation.
 -	Married people have high chance of staying with the company.	
 -	Employees are not working in Temp Department after the age of 30.	
 
-### 
+### FINAL PREDICTION
 - Predict the status of the employee whether employee will left the organization.
 - Predict the probability of the employee leaving an organization.
